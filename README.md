@@ -1,2 +1,2 @@
-# Lytex-PBR
+# Lytex
 A simple LabPBR Vanilla Resourcepack
